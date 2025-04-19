@@ -14,3 +14,7 @@ News
 2025
 ------
 One paper is accepted by COMPSAC 2025.
+
+2024 and earlier
+------
+One paper is accepted by COMPSAC 2025.
