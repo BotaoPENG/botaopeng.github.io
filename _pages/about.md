@@ -11,10 +11,6 @@ Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 
 News
 ======
-
-One paper is accepted by COMPSAC 2025.
-
 2025
 ------
-
-**2024 and earlier**
+One paper is accepted by COMPSAC 2025.
