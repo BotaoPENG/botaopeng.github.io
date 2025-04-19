@@ -12,11 +12,9 @@ Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 News
 ======
 
-One paper about the distributed data idendtifer is accept by COMPSAC 2025.
+One paper is accepted by COMPSAC 2025.
 
-Site-wide configuration
+2025
 ------
 
-**Markdown generator**
-------
-The main configuration file for the site is in the base directory in [_config.yml]
+**2024 and earlier**
