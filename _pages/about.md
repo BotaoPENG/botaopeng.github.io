@@ -1,12 +1,13 @@
 ---
 permalink: /
-#title: ""
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+I am an associate professor at Institute of Computing Technology, Chinese Academy of Sciences.
+Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 
 News
 ======
