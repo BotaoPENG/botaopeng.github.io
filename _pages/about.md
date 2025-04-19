@@ -14,8 +14,9 @@ News
 
 One paper about the distributed data idendtifer is accept by COMPSAC 2025.
 
+Site-wide configuration
+------
 
 **Markdown generator**
-Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml]
