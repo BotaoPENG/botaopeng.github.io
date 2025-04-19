@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "彭博韬"
+title                    : "Botao Peng"
 title_separator          : "-"
-name                     : &name "彭博韬"
+name                     : &name "Botao Peng"
 description              : &description "personal description"
 url                      : https://botaopeng.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,11 +22,11 @@ repository               : "botaopeng.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "彭博韬"
+  name             : "Botao Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Associate Professor"
   location         : "北京市海淀区"
-  employer         : "中国科学院计算技术研究所"
+  employer         : "Institute of Computing Technology, Chinese Academy of Sciences"
   uri              : # URL
   #email            : "pengbotao[at]ict.ac.cn" 
 
