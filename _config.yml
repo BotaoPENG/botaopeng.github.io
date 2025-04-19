@@ -24,9 +24,9 @@ author:
   avatar           : "pengbotaophoto.png"
   name             : "Botao Peng"
   pronouns         : # example: "she/her"  
-  bio              : "Associate Professor"
+  bio              : "Associate Professor Institute of Computing Technology, Chinese Academy of Sciences"
   location         : "Beijing, China"
-  employer         : "Institute of Computing Technology, Chinese Academy of Sciences"
+  #employer         : "Institute of Computing Technology, Chinese Academy of Sciences"
   uri              : # URL
   #email            : "pengbotao[at]ict.ac.cn" 
 
