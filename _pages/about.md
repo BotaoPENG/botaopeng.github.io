@@ -13,15 +13,15 @@ Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 
 ## 2025
 
-- One paper is accepted by COMPSAC 2025.
-- One paper is accepted by IEEE ICDE 2025.
-- One paper is accepted by WWW Journal.
+- One paper accepted by COMPSAC 2025.
+- One paper accepted by IEEE ICDE 2025.
+- One paper accepted by WWW Journal.
 - I will be serving as a PC member for IEEE Big Data 2025.
 
 
 ## 2024 and earlier
-
-One paper is accepted by VLDB 2024.
+- One paper accepted by SIGMOD 2025.
+- One paper accepted by VLDB 2024.
 
 # Publications {#publications}
 
