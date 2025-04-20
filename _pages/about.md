@@ -22,7 +22,6 @@ One paper is accepted by COMPSAC 2025.
 ----------
 
 One paper is accepted by COMPSAC 2025.
-<section id="publications">
 
 
 Publications
