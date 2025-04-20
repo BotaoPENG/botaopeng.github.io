@@ -12,8 +12,8 @@ main:
     url: "#publications"  
 
     
-  - title: "Project"
-    url: "#project"  
+  - title: "Projects"
+    url: "#projects"  
 
   - title: "Awards"
     url: "#awards"
