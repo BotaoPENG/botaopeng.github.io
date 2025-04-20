@@ -49,8 +49,16 @@ One paper is accepted by VLDB 2024.
 - Botao Peng. Data Series Indexing Gone Parallel. IEEE International Conference on Data Engineering (ICDE) 2020, Ph.D. Symposium.
 - Botao Peng, Panagiota Fatourou, Themis Palpanas. ParIS: The Next Destination for Fast Data Series Indexing and Query Answering. IEEE Big Data 2018
 
-# Projects {#projects}
+# Projects and fundings{#projects}
+
+- NSFC-62202450: Distributed heterogeneous time series indexing system.
+- 2021 Special Research Assistant Program of the Chinese Academy of Sciences
+- 2021 International Postdoctoral Exchange Fellowship Program(Talent-Introduction Program), YJ20210185
 
 # Awards {#awards}
+- 2021, 中国互联网协会青年专家
+- 2018, IEEE BigData 2018 Student Travel Award
 
 # Services {#services}
+PC Member: IEEE Big Data 2023, 2024, 2025, ECML-PKDD 2022
+Reviewer: PVLDB 2024-2025
