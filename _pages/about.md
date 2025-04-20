@@ -9,7 +9,8 @@ redirect_from:
 I am an associate professor at Institute of Computing Technology, Chinese Academy of Sciences.
 Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 
-{#news}
+<section id="news">
+  
 News
 ======
 
@@ -21,7 +22,7 @@ One paper is accepted by COMPSAC 2025.
 ------
 
 
-Publications<section id="publications">
+Publications
 ======
 
 
