@@ -8,10 +8,10 @@ redirect_from:
 ---
 I am an associate professor at Institute of Computing Technology, Chinese Academy of Sciences.
 Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
-<section id="news">
 
 News
 =====
+<section id="news">
 
 ## 2025s
 
