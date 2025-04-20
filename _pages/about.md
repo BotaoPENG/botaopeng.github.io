@@ -60,5 +60,5 @@ One paper is accepted by VLDB 2024.
 - 2018, IEEE BigData 2018 Student Travel Award
 
 # Services {#services}
-PC Member: IEEE Big Data 2023, 2024, 2025, ECML-PKDD 2022
-Reviewer: PVLDB 2024-2025
+- PC Member: IEEE Big Data 2023, 2024, 2025, ECML-PKDD 2022
+- Reviewer: PVLDB 2024-2025
