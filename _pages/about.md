@@ -25,7 +25,12 @@ One paper is accepted by VLDB 2024.
 
 # Publications {#publications}
 
-Jiuqi Wei, Xiaodong Lee, Yufan Fu, Ying Li, Botao Peng. Dominate data by yourself: a decentralized scheme for data interoperation when data is decoupled from applications. WWW Journal 2025
+Jiuqi Wei, Xiaodong Lee, Yufan Fu, Ying Li, Botao Peng. Dominate data by yourself: a decentralized scheme for data interoperation when data is decoupled from applications. WWW Journal 2025.<br>
+李颖, 李晓东, 费子郁, 彭博韬. 面向互联网数据互操作的授权技术综述，大数据 2024.<br>
+Yufan Fu, Xiaodong Li, Jiuqi Wei, Ying Li, Botao Peng. Securing the Internet's Backbone: A Blockchain-Based and Incentive-Driven Architecture for DNS Cache Poisoning Defense. Computer Network 2024.<br>
+Ying Li, Xiaodong Lee, Botao Peng, Themis Palpanas, Jingan Xue. Streaming Data Collection with a Private Sketch-based Protocol. IOTJ 2024.<br>
+Botao Peng, Panagiota Fatourou, Themis Palpanas. Fast Data Series Indexing for In-Memory Data. VLDB Journal 2021.<br>
+Botao Peng, Panagiota Fatourou, Themis Palpanas. ParIS+: Data Series Indexing on Modern Hardware. IEEE Transactions on Knowledge and Data Engineering (TKDE) 2021.<br>
 
 # Projects {#projects}
 
