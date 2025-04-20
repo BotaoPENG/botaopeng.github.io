@@ -10,22 +10,22 @@ I am an associate professor at Institute of Computing Technology, Chinese Academ
 Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 
 ## News {#news}
-=====
 
-## 2025
 
-- One paper is accepted by COMPSAC 2025.
+### 2025
 
-## 2024 and earlier
+One paper is accepted by COMPSAC 2025.
 
-- One paper is accepted by COMPSAC 2025.
+### 2024 and earlier
 
-# Publications
+One paper is accepted by COMPSAC 2025.
 
-- Botao peng XXXXXXXXXXXXXXXXXX
+## Publications {#publications}
 
-# Projects
+Botao peng XXXXXXXXXXXXXXXXXX
 
-# Awards
+## Projects {#projects}
 
-# Services
+## Awards {#awards}
+
+# Services {#services}
