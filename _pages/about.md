@@ -36,7 +36,7 @@ One paper is accepted by VLDB 2024.
 - Aurélien Morize, Botao Peng, Dominique Brémond-Gignac, Zoï Kapoula. Binocular plasticity occurs in adults with multiscale benefits along its time-course, when elicited by double-step paradigm. Journal of Eye Movement Research, 12 (7) 2019.
 - Zoi Kapoula, Akshay Chaturvedi, Erwann Pain, Aurelien Morize, Themis Palpanas, Botao Peng, Dominique Bremond Gignac. Efficient Rehabilitation of Vergence Accommodation in Children: A Case Study. HSOA Journal of Clinical Studies and Medical Case Reports, 6(74) 2019.
 
-## conferences
+## Conferences
 
 - Patrick Schafer , Jakob Brand, Ulf Leser, Botao Peng, Themis Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye. IEEE International Conference on Data Engineering (ICDE) 2025.
 - Jiuqi Wei, Xiaodong Lee, Zhenyu Liao, Themis Palpanas, Botao Peng. Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search. ACM SIGMOD 2025.
