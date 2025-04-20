@@ -13,7 +13,7 @@ News
 =====
 <section id="news">
 
-## 2025s
+## 2025
 
 - One paper is accepted by COMPSAC 2025.
 
