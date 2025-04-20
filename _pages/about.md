@@ -12,20 +12,20 @@ Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 # News {#news}
 
 
-### 2025
+## 2025
 
 One paper is accepted by COMPSAC 2025.
 
-### 2024 and earlier
+## 2024 and earlier
 
 One paper is accepted by COMPSAC 2025.
 
-## Publications {#publications}
+# Publications {#publications}
 
 Botao peng XXXXXXXXXXXXXXXXXX
 
-## Projects {#projects}
+# Projects {#projects}
 
-## Awards {#awards}
+# Awards {#awards}
 
 # Services {#services}
