@@ -38,7 +38,7 @@ Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 
 ## Conferences
 
-- Patrick Schafer , Jakob Brand, Ulf Leser, Botao Peng, Themis Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye. IEEE International Conference on Data Engineering (ICDE) 2025.
+- Patrick Schafer , Jakob Brand, Ulf Leser, **Botao Peng**, Themis Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye. IEEE International Conference on Data Engineering (ICDE) 2025.
 - Jiuqi Wei, Xiaodong Lee, Zhenyu Liao, Themis Palpanas, Botao Peng. Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search. ACM SIGMOD 2025.
 - Jiuqi Wei, Botao Peng, Xiaodong Lee , etc. DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search. VLDB 2024.
 - Manos Chatzakis, Panagiota Fatourou, Eleftherios Kosmas, Themis Palpanas, Botao Peng. Odyssey: A Journey in the Land of Distributed Data Series Similarity Search. VLDB 2023.
