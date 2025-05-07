@@ -61,5 +61,5 @@ Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 - 2018, IEEE BigData 2018 Student Travel Award
 
 # Services {#services}
-- PC Member: IEEE Big Data 2023, 2024, 2025, ECML-PKDD 2022
+- PC Member: IEEE ICDE 2026, IEEE Big Data 2023, 2024, 2025, ECML-PKDD 2022
 - Reviewer: PVLDB 2024-2025
