@@ -42,7 +42,7 @@ Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 - Patrick Schafer , Jakob Brand, Ulf Leser, **Botao Peng**, Themis Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye. IEEE International Conference on Data Engineering (ICDE) 2025.
 - Jiuqi Wei, Xiaodong Lee, Zhenyu Liao, Themis Palpanas, **Botao Peng**. Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search. ACM SIGMOD 2025.
 - Jiuqi Wei, **Botao Peng**, Xiaodong Lee , Themis Palpanas. DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search. VLDB 2024.
-- Manos Chatzakis, Panagiota Fatourou, Eleftherios Kosmas, Themis Palpanas, Botao Peng. Odyssey: A Journey in the Land of Distributed Data Series Similarity Search. VLDB 2023.
+- Manos Chatzakis, Panagiota Fatourou, Eleftherios Kosmas, Themis Palpanas, **Botao Peng**. Odyssey: A Journey in the Land of Distributed Data Series Similarity Search. VLDB 2023.
 - Ying Li, Xiaodong Lee, **Botao Peng**, Themis Palpanas, Jingan Xue. PrivSketch: A Private Sketch-based Frequency Estimation Protocol for Data Streams. DEXA 2023.
 - Yufan Fu, Jiuqi Wei, Ying Li, **Botao Peng**, Xiaodong Li. TI-DNS: A Trusted and Incentive DNS Resolution Architecture based on Blockchain. TrustCom 2023.
 - **Botao Peng**, Panagiota Fatourou, Themis Palpanas. SING: Sequence Indexing Using GPUs. IEEE International Conference on Data Engineering (ICDE) 2021.
