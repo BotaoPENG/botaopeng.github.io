@@ -13,8 +13,7 @@ Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 
 ## 2025
 
-- [May] I will be serving as a PC member for IEEE ICDE 2026.
-- One paper accepted by COMPSAC 2025.
+- I will be serving as a PC member for IEEE ICDE 2026.
 - One paper accepted by IEEE ICDE 2025.
 - One paper accepted by WWW Journal.
 - I will be serving as a PC member for IEEE Big Data 2025.
