@@ -6,13 +6,14 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an associate professor at Institute of Computing Technology, Chinese Academy of Sciences.
+I am an Associate Professor at Institute of Computing Technology, Chinese Academy of Sciences.
 Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 
 # News {#news}
 
 ## 2025
 
+- I will be serving as a PC member for IEEE ICDM 2025.
 - I will be serving as a PC member for IEEE ICDE 2026.
 - One paper accepted by IEEE ICDE 2025.
 - One paper accepted by WWW Journal.
