@@ -14,7 +14,7 @@ Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 ## 2025
 
 - One paper accepted by Engineering Applications of Artificial Intelligence.
-- Two paper accepted by TrustCom 2025.
+- Two papers accepted by TrustCom 2025.
 - I will be serving as a PC member for IEEE ICDM 2025.
 - I will be serving as a PC member for IEEE ICDE 2026.
 - One paper accepted by IEEE ICDE 2025.
