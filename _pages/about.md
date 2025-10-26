@@ -54,7 +54,8 @@ Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
 
 # Projects and fundings {#projects}
 
-- NSFC-62202450: Distributed heterogeneous time series indexing system.
+- Approximate nearest neighbor search in largescale and high-dimensional database Project, Huawei.
+- Distributed heterogeneous time series indexing system, NSFC.
 - 2021 Special Research Assistant Program of the Chinese Academy of Sciences.
 - 2021 International Postdoctoral Exchange Fellowship Program(Talent-Introduction Program), YJ20210185.
 
