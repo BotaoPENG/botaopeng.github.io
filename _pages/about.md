@@ -7,22 +7,17 @@ redirect_from:
   - /about.html
 ---
 I am an Associate Professor at Institute of Computing Technology, Chinese Academy of Sciences.
-Priviously, I got my PhD at University of Paris under Prof. Themis Palpanas.
+Previously, I got my PhD at the University of Paris under Prof. Themis Palpanas.
 
 # News {#news}
 
 ## 2025
 
-- One paper accepted by Engineering Applications of Artificial Intelligence.
-- Two papers accepted by TrustCom 2025.
-- I will be serving as a PC member for IEEE ICDM 2025.
+- One paper accepted by IEEE Transactions on Mobile Computing
+- One paper accepted by Information and Software Technology
+
+## 2025 and earlier
 - I will be serving as a PC member for IEEE ICDE 2026.
-- One paper accepted by IEEE ICDE 2025.
-- One paper accepted by WWW Journal.
-- I will be serving as a PC member for IEEE Big Data 2025.
-
-
-## 2024 and earlier
 - One paper accepted by SIGMOD 2025.
 - One paper accepted by VLDB 2024.
 
