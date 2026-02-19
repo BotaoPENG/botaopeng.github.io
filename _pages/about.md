@@ -6,12 +6,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Associate Professor at Institute of Computing Technology, Chinese Academy of Sciences.
-Previously, I got my PhD at the University of Paris under Prof. Themis Palpanas.
+I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences. My research interests include the design and optimization of systems for high-dimensional data management and analysis, and the development of cross-domain data exchange systems. I completed my Ph.D. at the University of Paris under Prof. Themis Palpanas.
 
 # News {#news}
 
-## 2025
+## 2026
 
 - One paper accepted by IEEE Transactions on Mobile Computing
 - One paper accepted by Information and Software Technology
