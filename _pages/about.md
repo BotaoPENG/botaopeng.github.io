@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences. My research interests include the design and optimization of systems for high-dimensional data management and analysis, and the development of cross-domain data exchange systems. I completed my Ph.D. at the University of Paris under Prof. Themis Palpanas.
+I am an Associate Professor at the Institute of Computing Technology, Chinese Academy of Sciences. My research interests include the design and optimization of systems for high-dimensional data and time series management and analysis, as well as the development of cross-domain data exchange systems. I completed my Ph.D. at the University of Paris under Prof. Themis Palpanas.
 
 # News {#news}
 
