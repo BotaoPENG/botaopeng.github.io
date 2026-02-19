@@ -1,4 +1,4 @@
----
+<img width="560" height="117" alt="image" src="https://github.com/user-attachments/assets/e1564fd3-98ef-4540-a346-57d57b0a4b0c" />---
 permalink: /
 title: ""
 author_profile: true
@@ -36,7 +36,8 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 - Zoi Kapoula, Akshay Chaturvedi, Erwann Pain, Aurelien Morize, Themis Palpanas, **Botao Peng**, Dominique Bremond Gignac. Efficient Rehabilitation of Vergence Accommodation in Children: A Case Study. HSOA Journal of Clinical Studies and Medical Case Reports, 6(74) 2019.
 
 ## Conferences
-
+- Aiyao Zhang, Xiaodong Lee, Zhixian Zhuang, Jiuqi Wei, Yufan Fu, **Botao Peng**. SIFAA: The Cross-Domain Access Control System Powered by Self-Sovereign Identity. IEEE TrustCom 2025.
+- Zhaojun Dai, Xiaodong Lee, Yufan Fu, **Botao Peng**. DeFiAD: A Unified Method for Early-Stage Domain Abuse Detection through Automated Deep Feature Interaction. IEEE TrustCom 2025
 - Patrick Schafer , Jakob Brand, Ulf Leser, **Botao Peng**, Themis Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye. IEEE International Conference on Data Engineering (ICDE) 2025.
 - Jiuqi Wei, Xiaodong Lee, Zhenyu Liao, Themis Palpanas, **Botao Peng**. Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search. ACM SIGMOD 2025.
 - Jiuqi Wei, **Botao Peng**, Xiaodong Lee , Themis Palpanas. DET-LSH: A Locality-Sensitive Hashing Scheme with Dynamic Encoding Tree for Approximate Nearest Neighbor Search. VLDB 2024.
