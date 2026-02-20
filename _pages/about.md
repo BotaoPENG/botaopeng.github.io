@@ -11,7 +11,6 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 # News {#news}
 
 ## 2026
-
 - One paper accepted by IEEE Transactions on Mobile Computing
 - One paper accepted by Information and Software Technology
 
