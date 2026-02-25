@@ -22,6 +22,7 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 # Publications {#publications}
 
 ## Journals
+- Weiyao Zhang, Jinyang Li, **Botao Peng**, Xuying Meng, Yujun Zhang. Dynamic Federated Edge Anomaly Detection Based on Dual Fuzzing Strategies. IEEE Transactions on Mobile Computing(TMC) 2026.
 - Zhixian Zhuang, Xiaodong Lee, Aiyao Zhang, Jiuqi Wei, Yufan Fu, **Botao Peng**. Structured Policy Modeling and Context-Aware Generation for Multi-Jurisdictional Compliance in Global Software Systems. Information and Software Technology 2026.
 - Siyuan Chen, Hang Wan, **Botao Peng**, Rui Quan, Yufang Chang, William Derigent. Accurate Multi-Step Wind and Solar Power Forecasting Based on Multi-Scale Convolutional Kolmogorov-Arnold Network and Improved Lemming-Optimized Attention Fusion. Engineering Applications of Artificial Intelligence 2025.
 - Jiuqi Wei, Xiaodong Lee, Yufan Fu, Ying Li, **Botao Peng**. Dominate data by yourself: a decentralized scheme for data interoperation when data is decoupled from applications. WWW Journal 2025.
