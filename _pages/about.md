@@ -11,8 +11,9 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 # News {#news}
 
 ## 2026
-- One paper accepted by IEEE Transactions on Mobile Computing
-- One paper accepted by Information and Software Technology
+- One paper accepted by IEEE Transactions on Knowledge and Data Engineering.
+- One paper accepted by IEEE Transactions on Mobile Computing.
+- One paper accepted by Information and Software Technology.
 
 ## 2025 and earlier
 - I will be serving as a PC member for IEEE ICDE 2026.
@@ -22,6 +23,7 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 # Publications {#publications}
 
 ## Journals
+- Jiuqi Wei, Xiaodong Lee, **Botao Peng**, Quanqing Xu, Chuanhui Yang, Themis Palpanas. PDET-LSH: Scalable In-Memory Indexing for High-Dimensional Approximate Nearest Neighbor Search with Quality Guarantees. IEEE Transactions on Knowledge and Data Engineering (TKDE) 2026.
 - Weiyao Zhang, Jinyang Li, **Botao Peng**, Xuying Meng, Yujun Zhang. Dynamic Federated Edge Anomaly Detection Based on Dual Fuzzing Strategies. IEEE Transactions on Mobile Computing(TMC) 2026.
 - Zhixian Zhuang, Xiaodong Lee, Aiyao Zhang, Jiuqi Wei, Yufan Fu, **Botao Peng**. Structured Policy Modeling and Context-Aware Generation for Multi-Jurisdictional Compliance in Global Software Systems. Information and Software Technology 2026.
 - Siyuan Chen, Hang Wan, **Botao Peng**, Rui Quan, Yufang Chang, William Derigent. Accurate Multi-Step Wind and Solar Power Forecasting Based on Multi-Scale Convolutional Kolmogorov-Arnold Network and Improved Lemming-Optimized Attention Fusion. Engineering Applications of Artificial Intelligence 2025.
