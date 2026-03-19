@@ -11,8 +11,8 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 # News {#news}
 
 ## 2026
-- I will be serving as a Reviewer for VLDB 2027.
 - One paper accepted by IEEE Transactions on Knowledge and Data Engineering.
+- I will be serving as a Reviewer for VLDB 2027.
 - One paper accepted by IEEE Transactions on Mobile Computing.
 - One paper accepted by Information and Software Technology.
 
