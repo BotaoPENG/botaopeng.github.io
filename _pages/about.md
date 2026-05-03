@@ -11,6 +11,7 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 # News {#news}
 
 ## 2026
+- One paper accepted by ICML 2026.
 - One paper accepted by IEEE Transactions on Knowledge and Data Engineering.
 - I will be serving as a Reviewer for VLDB 2027.
 - One paper accepted by IEEE Transactions on Mobile Computing.
@@ -38,6 +39,7 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 - Zoi Kapoula, Akshay Chaturvedi, Erwann Pain, Aurelien Morize, Themis Palpanas, **Botao Peng**, Dominique Bremond Gignac. Efficient Rehabilitation of Vergence Accommodation in Children: A Case Study. HSOA Journal of Clinical Studies and Medical Case Reports, 6(74) 2019.
 
 ## Conferences
+- Yanlin Qi, Xinhang Chen, Huiqiang Jiang, Qitong Wang, **Botao Peng**, Themis Palpanas. ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs. International Conference on Machine Learning(ICML) 2026
 - Aiyao Zhang, Xiaodong Lee, Zhixian Zhuang, Jiuqi Wei, Yufan Fu, **Botao Peng**. SIFAA: The Cross-Domain Access Control System Powered by Self-Sovereign Identity. IEEE TrustCom 2025.
 - Zhaojun Dai, Xiaodong Lee, Yufan Fu, **Botao Peng**. DeFiAD: A Unified Method for Early-Stage Domain Abuse Detection through Automated Deep Feature Interaction. IEEE TrustCom 2025
 - Patrick Schafer , Jakob Brand, Ulf Leser, **Botao Peng**, Themis Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye. IEEE International Conference on Data Engineering (ICDE) 2025.
