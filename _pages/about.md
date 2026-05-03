@@ -12,9 +12,9 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 
 ## 2026
 - One paper accepted by ICML 2026.
-- One paper accepted by IEEE Transactions on Knowledge and Data Engineering.
+- One paper accepted by IEEE Transactions on Knowledge and Data Engineering(TKDE).
 - I will be serving as a Reviewer for VLDB 2027.
-- One paper accepted by IEEE Transactions on Mobile Computing.
+- One paper accepted by IEEE Transactions on Mobile Computing(TMC).
 - One paper accepted by Information and Software Technology.
 
 ## 2025 and earlier
