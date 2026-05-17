@@ -11,6 +11,7 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 # News {#news}
 
 ## 2026
+- I will be serving as a PC member for IEEE ICDM 2026.
 - One paper accepted by ICML 2026.
 - One paper accepted by IEEE Transactions on Knowledge and Data Engineering(TKDE).
 - I will be serving as a Reviewer for VLDB 2027.
