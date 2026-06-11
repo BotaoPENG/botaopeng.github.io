@@ -41,7 +41,7 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 - Zoi Kapoula, Akshay Chaturvedi, Erwann Pain, Aurelien Morize, Themis Palpanas, **Botao Peng**, Dominique Bremond Gignac. Efficient Rehabilitation of Vergence Accommodation in Children: A Case Study. HSOA Journal of Clinical Studies and Medical Case Reports, 6(74) 2019.
 
 ## Conferences
-- Hao Zheng, Xiaodong Lee, **Botao Peng**, Tianqi Hou, Themis Palpanas. DalQ: Reconciling Accuracy and Efficiency in Vector Quantization. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD).
+- Hao Zheng, Xiaodong Lee, **Botao Peng**, Tianqi Hou, Themis Palpanas. DalQ: Reconciling Accuracy and Efficiency in Vector Quantization. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2026.
 - Yanlin Qi, Xinhang Chen, Huiqiang Jiang, Qitong Wang, **Botao Peng**, Themis Palpanas. ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs. International Conference on Machine Learning(ICML) 2026.
 - Aiyao Zhang, Xiaodong Lee, Zhixian Zhuang, Jiuqi Wei, Yufan Fu, **Botao Peng**. SIFAA: The Cross-Domain Access Control System Powered by Self-Sovereign Identity. IEEE TrustCom 2025.
 - Zhaojun Dai, Xiaodong Lee, Yufan Fu, **Botao Peng**. DeFiAD: A Unified Method for Early-Stage Domain Abuse Detection through Automated Deep Feature Interaction. IEEE TrustCom 2025
@@ -64,6 +64,7 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 - 2021 International Postdoctoral Exchange Fellowship Program(Talent-Introduction Program).
 
 # Awards {#awards}
+- 2025, 华为技术有限公司“火花奖”
 - 2021, 中国互联网协会青年专家
 - 2018, IEEE BigData 2018 Student Travel Award
 
