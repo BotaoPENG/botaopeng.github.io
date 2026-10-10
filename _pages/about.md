@@ -64,10 +64,10 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 - 2021 International Postdoctoral Exchange Fellowship Program(Talent-Introduction Program).
 
 # Awards {#awards}
-- 2025, 华为技术有限公司“火花奖”
+- 2025, Huawei Spark Award (华为火花奖)
 - 2021, 中国互联网协会青年专家
 - 2018, IEEE BigData 2018 Student Travel Award
 
 # Services {#services}
 - PC Member: IEEE ICDE 2026, IEEE Big Data 2023, 2024, 2025, ECML-PKDD 2022
-- Reviewer: PVLDB 2024-2025
+- Reviewer: PVLDB 2026-2027, 2024-2025
