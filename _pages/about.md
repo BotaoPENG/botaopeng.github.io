@@ -11,6 +11,7 @@ I am an Associate Professor at the Institute of Computing Technology, Chinese Ac
 # News {#news}
 
 ## 2026
+- One paper accepted by IEEE Transactions on Mobile Computing(TMC).
 - I’m very grateful to be supported by the Beijing Academy of Artificial Intelligence(BAAI) (youth researcher program) on my research.
 - One paper accepted by ECML-PKDD 2026.
 - I will be serving as a PC member for IEEE ICDM 2026.
