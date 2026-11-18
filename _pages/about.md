@@ -46,7 +46,7 @@ redirect_from:
 ## Conferences
 - Hao Zheng, Xiaodong Lee, **Botao Peng**, Tianqi Hou, Themis Palpanas. DalQ: Reconciling Accuracy and Efficiency in Vector Quantization. European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD) 2026.
 - Yanlin Qi, Xinhang Chen, Huiqiang Jiang, Qitong Wang, **Botao Peng**, Themis Palpanas. ParisKV: Fast and Drift-Robust KV-Cache Retrieval for Long-Context LLMs. International Conference on Machine Learning(ICML) 2026.
-- Aiyao Zhang, Xiaodong Lee, Zhixian Zhuang, Jiuqi Wei, Yufan Fu, **Botao Peng**. SIFAA: The Cross-Domain Access Control System Powered by Self-Sovereign Identity. IEEE TrustCom 2025.
+- Aiyao Zhang, Xiaodong Lee, Zhixian Zhuang, Jiuqi Wei, Yufan Fu, **Botao Peng**. Polaris: Cross-domain access control via verifiable identity and policy-based authorization. IEEE TrustCom 2025.
 - Zhaojun Dai, Xiaodong Lee, Yufan Fu, **Botao Peng**. DeFiAD: A Unified Method for Early-Stage Domain Abuse Detection through Automated Deep Feature Interaction. IEEE TrustCom 2025
 - Patrick Schafer , Jakob Brand, Ulf Leser, **Botao Peng**, Themis Palpanas. Fast and Exact Similarity Search in less than a Blink of an Eye. IEEE International Conference on Data Engineering (ICDE) 2025.
 - Jiuqi Wei, Xiaodong Lee, Zhenyu Liao, Themis Palpanas, **Botao Peng**. Subspace Collision: An Efficient and Accurate Framework for High-dimensional Approximate Nearest Neighbor Search. ACM SIGMOD 2025.
